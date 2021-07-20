@@ -96,9 +96,9 @@ KEYMAPS(
   [ARROWS] = KEYMAP_STACKED
   (
        ___                   ,___                      ,___           ,___            ,___
-      ,___                   ,Key_LeftAlt              ,___           ,___            ,___
-      ,___                   ,___                      ,___           ,___            ,___     , ___
-      ,___                   ,___                      ,___           ,___            ,Key_Esc , ___
+      ,___                   ,Key_LeftAlt              ,Key_Esc       ,___            ,___
+      ,___                   ,___                      ,___           ,___            ,___ , ___
+      ,___                   ,___                      ,___           ,___            ,___ , ___
 
                 ,___           ,Key_PageUp          ,Key_UpArrow     ,Key_Home       ,___
                 ,Key_0         ,Key_LeftArrow       ,Key_DownArrow   ,Key_RightArrow ,Key_Dollar
